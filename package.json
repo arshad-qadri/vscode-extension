@@ -1,0 +1,34 @@
+{
+  "name": "dark-theme",
+  "displayName": "Dark Theme",
+  "description": "This is dark theme extension",
+  "version": "0.0.1",
+  "publisher": "arshad-qadri",
+  "icon": "images/chai.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arshad-qadri/vscode-extension"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "best dark theme",
+    "coder theme",
+    "arshad qadri"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
