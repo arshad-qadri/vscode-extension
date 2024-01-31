@@ -4,7 +4,6 @@
   "description": "This is dark theme extension",
   "version": "0.0.1",
   "publisher": "arshad-qadri",
-  "icon": "images/chai.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/arshad-qadri/vscode-extension"
